@@ -1,0 +1,592 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"height"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"me",
+				"meta"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"text",
+				"text-decoration-line"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"re",
+				"rotateX"
+			],
+			[
+				"w",
+				"webkitTransform"
+			],
+			[
+				"pr",
+				"prepage"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"cu",
+				"curIndex"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"we",
+				"webkit-perspective"
+			],
+			[
+				"ea",
+				"ease-in-out"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"n",
+				"newInfos"
+			],
+			[
+				"in",
+				"infos"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"se",
+				"selected"
+			],
+			[
+				"st",
+				"style	Attr"
+			],
+			[
+				"ch",
+				"checked"
+			],
+			[
+				"cha",
+				"changeState"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"m",
+				"modifyclass"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"he",
+				"hidetext"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"sr",
+				"script	Tag"
+			],
+			[
+				"H",
+				"Hello"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"DO",
+				"document"
+			],
+			[
+				"sc",
+				"score"
+			],
+			[
+				"my",
+				"mychar"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"r",
+				"relative"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"FL",
+				"float"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"t",
+				"tbody	Tag"
+			],
+			[
+				"bod",
+				"border"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"wo",
+				"word-spacing"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"l",
+				"lis"
+			],
+			[
+				"L",
+				"li"
+			],
+			[
+				"C",
+				"class"
+			],
+			[
+				"lis",
+				"list	list-style-type"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"font-s",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ssh",
+		"selected_items":
+		[
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssc",
+				"Set Syntax: CSS"
+			],
+			[
+				"sscs",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"packagecontrol",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pc",
+				"Package Control: Install Package"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"!",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 407.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/work/8888.html",
+		"/C/Users/Administrator/Desktop/学习资料/案例04 微博对话框/demo1.html",
+		"/C/Users/Administrator/Desktop/学习资料/案例04 微博对话框/demo2.html",
+		"/D/Bootstrap/sidebardemo.html",
+		"/D/Bootstrap/sidebarJs.js",
+		"/D/Bootstrap/sidebarcss",
+		"/D/Bootstrap/demo3.html",
+		"/E/work/testcss",
+		"/E/xinchun/Css/style.css",
+		"/E/xinchun/mukexinchun.html",
+		"/E/Jstest01.js",
+		"/E/work/0311jstest01.html",
+		"/E/work/testprompt.html",
+		"/E/work/windowopen.html",
+		"/E/work/223.html",
+		"/E/work/testDom.html",
+		"/E/work/testDominner.html",
+		"/E/work/1111.html",
+		"/E/work/test4-1.html",
+		"/E/work/222.html",
+		"/E/work/testarry.html",
+		"/E/work/CSS3Dtransition.html",
+		"/E/work/CSS3Dtransitions1.html",
+		"/E/work/test3d.html",
+		"/E/work/3dspace.html",
+		"/E/work/Block3d.html",
+		"/E/work/318.js",
+		"/E/work/block3djs.js",
+		"/E/testposition.html",
+		"/E/testvertic-center.html",
+		"/E/testbook.html",
+		"/E/eeee/testbook.html",
+		"/E/testbook1.html",
+		"/E/test12buju.html",
+		"/E/test13.html",
+		"/E/test14.html",
+		"/E/test15.html",
+		"/E/test11.html",
+		"/E/work/testspan.css",
+		"/E/test6.html",
+		"/E/test2.html",
+		"/E/test3.html",
+		"/E/test4.html",
+		"/E/testEmail.html",
+		"/E/test8.html",
+		"/E/test7.html",
+		"/E/test5.html",
+		"/E/test1.html",
+		"/C/Users/Administrator/Desktop/TYC8](NC$3W[8$UOD3K0[XW.png",
+		"/C/Users/Administrator/Desktop/222.js",
+		"/E/test0310.adp",
+		"/E/work/test030801.html",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Administrator/Desktop/hhh.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"div",
+			"></",
+			"div",
+			"></",
+			" ></",
+			"div",
+			"></",
+			"div",
+			"X",
+			"1",
+			"page1",
+			"1",
+			"3s",
+			"document",
+			"杭州",
+			"one",
+			"\";\n",
+			"()\"></",
+			"    \n",
+			"my",
+			"\";\n",
+			"mychar",
+			"content",
+			"sidebar",
+			"mainbody",
+			"content",
+			"看书",
+			"></>",
+			"div",
+			"span",
+			"td",
+			"red",
+			"test",
+			"test3",
+			"test1",
+			"test3",
+			"test1",
+			">\n",
+			"Yahei",
+			"10",
+			"!",
+			"file",
+			"!"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"></"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 164.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
